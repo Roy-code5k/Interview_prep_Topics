@@ -1,0 +1,35 @@
+Authentication vs Authorizaion
+JWT Token 
+OAuth 
+Encryption vs Encoding
+CORS
+Middleware
+OOPS 
+SOLIDS
+Stateful vs Stateless
+System Design  (HLD , LLD)
+Server vs Serverless
+Rate Limiter
+Load Balancer (L4 vs L7)
+CDN
+Blocking vs Non-Blocking I/O
+ACID vs BASE
+CAP Theorem (Revisited)
+Race Condition
+Database Sharding 
+Database Indexing
+Database Partitions
+Database Replication 
+Database Schema
+Sync vs Async
+Process vs Thread
+Caching 
+ORM vs ODM 
+Vertical vs Horizontal Scaling
+API Gateways 
+Put vs Post
+SQL vs NoSql
+API retry logic 
+CI/CD
+Session vs Cookie
+Rate Limiter 
