@@ -1,6 +1,6 @@
 Authentication vs Authorizaion
 JWT Token 
-OAuth 
+Google OAuth 
 Encryption vs Encoding
 CORS
 Middleware
